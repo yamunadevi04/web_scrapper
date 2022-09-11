@@ -1,6 +1,6 @@
-This is a simple webscrapped project which gives very basic information about covid 19 
-It is developed with google collab.
-What is google collab?
+This is a simple webscrapped project which gives very basic information about covid 19 !!
+It is developed with google collab
+Do you wanna know what is a google collab?
 
 <a href="https://research.google.com/colaboratory/faq.html#whats-colaboratory">click here </a> 
 to know more!!!
